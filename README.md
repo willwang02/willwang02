@@ -1,16 +1,37 @@
-### Hi there 👋
+# **Will Wei-Juen Wang** 🌟  
+**MS Student in Electrical and Computer Engineering**  
+📍 Davis, CA | 📧 willwang02@gmail.com | 📞 (530) 564-9292  
 
-<!--
-**willwang02/willwang02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👋 **About Me**  
+I am Will Wei-Juen Wang, a graduate student at the University of California, Davis, pursuing a Master’s degree in Electrical and Computer Engineering. I am passionate about **robotics**, **computer vision**, and **embedded systems**, constantly exploring innovative technologies and applying them to solve real-world challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 **Education**  
+- **University of California, Davis** (MS in Electrical and Computer Engineering)  
+  *Sept 2024 - Jun 2026 (Expected)*  
+  - 📚 Relevant Courses: Linear Systems & Signals, Internet of Things, Practical AI  
+
+- **Shanghai Jiao Tong University** (Bachelor in Information Engineering)  
+  *Sept 2020 - Jun 2024*  
+  - 📚 Relevant Courses: Digital Electronics, Machine Learning, Embedded Systems, Data Structure  
+
+---
+
+## 🛠️ **Skills**  
+- **Programming Languages:** C++, Python, Verilog(Currently Learning)  
+!<-- - **Expertise:** --> 
+
+---
+
+!<-- ## 📈 **GitHub Stats**  
+![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical) -->
+
+---
+
+## 📬 **Contact Me**  
+- **Email:** willwang02@gmail.com, wwwa@ucdavis.edu  
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](www.linkedin.com/in/willwang02)  
