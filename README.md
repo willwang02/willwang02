@@ -26,12 +26,6 @@ I am Will Wei-Juen Wang, a graduate student at the University of California, Dav
 
 ---
 
-!<-- ## 📈 **GitHub Stats**  
-![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical) -->
-
----
-
 ## 📬 **Contact Me**  
 - **Email:** willwang02@gmail.com, wwwa@ucdavis.edu  
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](www.linkedin.com/in/willwang02)  
