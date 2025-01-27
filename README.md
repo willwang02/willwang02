@@ -22,7 +22,7 @@ I am Will Wei-Juen Wang, a graduate student at the University of California, Dav
 
 ## 🛠️ **Skills**  
 - **Programming Languages:** C++, Python, Verilog(Currently Learning)  
-!<-- - **Expertise:** --> 
+<!-- - **Expertise:** --> 
 
 ---
 
